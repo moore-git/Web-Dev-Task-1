@@ -1,0 +1,8 @@
+{
+  "name": "boston-seeds-1",
+  "version": "1.0.0",
+  "description": "Assigned Task 1",
+  "dependencies": {
+    "bootstrap": "4.5.3"
+  }
+}
